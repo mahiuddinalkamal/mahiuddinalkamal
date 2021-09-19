@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahiuddinalkamal
-- 👀 I’m interested in Confidential Computing, Trusted Execution Environments as well as Cloud-Native Distributed Systems.
-- 🌱 I’m currently learning to build confidential softwares from scratch and port existing legacy softwares to enable confidential computing.
-- 💞️ I’m looking to collaborate on any open-source framework or SDK which will enable applications to make use of confidential computing. 
+- 👀 I’m interested in Cloud-Native Distributed Systems, Confidential Computing, as well as Trusted Execution Environments.
+- 🌱 I’m currently writing my master's thesis on Confidential Inference as a Service.
+- 💞️ I’m looking to collaborate on any open-source framework/project or SDK which will enable applications to make use of confidential computing. 
 - 📫 You can always reach me at mahiuddinalkamal@gmail.com
 
 <!---
