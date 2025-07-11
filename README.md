@@ -44,17 +44,17 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiuddinalkamal&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&title_color=212121&text_color=424242&icon_color=424242" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiuddinalkamal&theme=transparent&hide_border=true&background=00000000&stroke=424242&ring=424242&fire=424242&currStreakLabel=424242" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahiuddinalkamal&theme=vue&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiuddinalkamal&theme=vue&hide_border=true&background=00000000&stroke=424242&ring=424242&fire=424242&currStreakLabel=424242" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiuddinalkamal&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=212121&text_color=424242" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiuddinalkamal&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=212121&text_color=424242" alt="Top Languages" width="50%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/mahiuddinalkamal/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahiuddinalkamal&bg_color=00000000&color=424242&line=424242&point=424242&hide_border=true" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahiuddinalkamal&bg_color=00000000&color=A0A0A0&line=A0A0A0&point=A0A0A0&hide_border=true" alt="Activity Graph" width="95%" />
   </a>
 </p>
 
