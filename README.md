@@ -2,7 +2,8 @@
 
 **Software Engineer | Backend Systems | Cloud Architect ✨**
 
----
+<hr style="border-color: rgba(0, 0, 0, 0.1);">
+
 
 ## About
 
@@ -10,20 +11,24 @@ With over 6 years of experience, I specialize in designing and developing robust
 
 My expertise spans Java and modern frameworks, object-oriented programming, design patterns, microservices architectures, RESTful APIs, cloud-native technologies (SAP BTP, AWS, Azure, GCP), and DevOps practices including CI/CD pipelines and monitoring/logging systems.
 
----
+
+<hr style="border-color: rgba(0, 0, 0, 0.1);">
+
 
 ## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahiuddinalkamal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
   <a href="mailto:mahiuddinalkamal@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="35" height="35" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" height="30" alt="Gmail"/>
   </a>
 </p>
 
----
+
+<hr style="border-color: rgba(0, 0, 0, 0.1);">
+
 
 ## Technologies
 
@@ -39,7 +44,9 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
 </p>
 
----
+
+<hr style="border-color: rgba(0, 0, 0, 0.1);">
+
 
 ## GitHub Activity
 
@@ -58,10 +65,12 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
   </a>
 </p>
 
----
+
+<hr style="border-color: rgba(0, 0, 0, 0.1);">
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahiuddinalkamal&style=for-the-badge&color=424242" alt="Profile Views" />
 </p>
 
-<p align="center" style="color: #424242;">Thanks for visiting!</p>
+<p>Thanks for visiting!</p>
