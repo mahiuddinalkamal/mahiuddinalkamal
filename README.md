@@ -71,6 +71,12 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ossinsight.io/analyze/mahiuddinalkamal" target="_blank" style="font-size: 1.5em; color: #0056B3; font-weight: bold; text-decoration: none;">
+    Explore more detailed insights on OssInsight.
+  </a>
+</p>
+
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
@@ -79,4 +85,4 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
   <img src="https://komarev.com/ghpvc/?username=mahiuddinalkamal&style=for-the-badge&color=424242" alt="Profile Views" />
 </p>
 
-<p>Thanks for visiting!</p>
+<p align="center">Thanks for visiting! 👋</p>
