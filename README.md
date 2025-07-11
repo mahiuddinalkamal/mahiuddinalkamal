@@ -19,17 +19,14 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
 
 <p align="center">
   <a href="https://portfolio.mahiuddinalkamal.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" width="30" height="30" alt="Portfolio"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/globe.svg" width="30" height="30" alt="Portfolio"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mahiuddinalkamal/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/MahiuddinKamal" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="30" height="30" alt="Twitter/X"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/mahiuddinalkamal" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" width="30" height="30" alt="HackerRank"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mahiuddinalkamal@gmail.com">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" height="30" alt="Gmail"/>
   </a>
