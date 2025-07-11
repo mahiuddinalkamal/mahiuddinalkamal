@@ -21,6 +21,9 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
   <a href="https://www.linkedin.com/in/mahiuddinalkamal/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/mahiuddinalkamal" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" width="30" height="30" alt="HackerRank"/>
+  </a>
   <a href="mailto:mahiuddinalkamal@gmail.com">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" height="30" alt="Gmail"/>
   </a>
