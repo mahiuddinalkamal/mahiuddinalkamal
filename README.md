@@ -12,7 +12,7 @@ With over 6 years of experience, I specialize in designing and developing robust
 My expertise spans Java and modern frameworks, object-oriented programming, design patterns, microservices architectures, RESTful APIs, cloud-native technologies (SAP BTP, AWS, Azure, GCP), and DevOps practices including CI/CD pipelines and monitoring/logging systems.
 
 
-<hr style="border-color: rgba(0, 0, 0, 0.1);}>
+<hr style="border-color: rgba(0, 0, 0, 0.1);">
 
 
 ## Connect
