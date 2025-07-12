@@ -1,6 +1,6 @@
 # Mahiuddin Al Kamal
 
-**Software Engineer | Backend Systems | Cloud Architect ✨**
+**Software Engineer | Distributed Systems | Cloud Native Apps**
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
