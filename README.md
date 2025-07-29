@@ -18,7 +18,7 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
 ## Connect
 
 <p align="center">
-  <a href="https://portfolio.mahiuddinalkamal.com/" target="_blank">
+  <a href="https://mahiuddinalkamal.com/" target="_blank">
     <img src="icons/portfolio.svg" width="30" height="30" alt="Portfolio"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mahiuddinalkamal/" target="_blank">
