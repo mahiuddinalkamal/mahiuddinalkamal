@@ -1,13 +1,17 @@
 # Mahiuddin Al Kamal
 
-**Software Engineer | Distributed Systems | Cloud Native Apps**
+**Software Engineer | Distributed Systems | Agentic AI | Cloud-Native Applications**
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
 
 ## About
 
-With over 6 years of experience, I specialize in designing and developing robust, scalable backend systems. As a Developer Specialist at SAP, I contribute to their collaborative Demand & Capacity Management system.
+With over 6 years of experience, I specialize in designing and developing robust, scalable backend systems. Lately, I’ve been deeply engaged with how AI is reshaping the entire software landscape.
+
+At SAP, I work on one of our flagship agentic AI projects focused on Utilities and Market Communication (MaCo). We’re rethinking core processes using modern AI to bring real improvements in efficiency and impact. My focus is on closing the gap between traditional enterprise software and today’s AI tools by building practical, intelligent solutions.
+
+Outside of work, I stay active in the fast-moving AI space. From LLMs to intelligent agents and open-source tools, I enjoy exploring how new developments in AI can improve developer experience, automation, and complex decision-making.
 
 My expertise spans Java and modern frameworks, object-oriented programming, design patterns, microservices architectures, RESTful APIs, cloud-native technologies (SAP BTP, AWS, Azure, GCP), and DevOps practices including CI/CD pipelines and monitoring/logging systems.
 
