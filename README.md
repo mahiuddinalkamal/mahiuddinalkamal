@@ -1,23 +1,61 @@
 # Mahiuddin Al Kamal
 
-**Software Engineer | Distributed Systems | Agentic AI | Cloud-Native Applications**
+**Developer Specialist @ SAP SE | Agentic-AI | Backend | DevOps**
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
+## About Me
 
-## About
+With over 6 years of experience, I specialize in building production-ready AI platforms, enterprise microservices, and cloud-native distributed applications. I'm passionate about creating intelligent systems that solve real-world problems through clean architecture and modern technologies.
 
-With over 6 years of experience, I specialize in designing and developing robust, scalable backend systems. Lately, I’ve been deeply engaged with how AI is reshaping the entire software landscape.
+**Current Focus:**
+- **Enterprise Microservices**: Designing event-driven architectures with Kafka, GraphQL, and containerized deployments
+- **Digital Security**: Developing zero-knowledge encryption systems for digital legacy management
+- **Marketplace Integrations**: Creating robust APIs for e-commerce platform integrations
 
-At SAP, I work on one of our flagship agentic AI projects focused on Utilities and Market Communication (MaCo). We’re rethinking core processes using modern AI to bring real improvements in efficiency and impact. My focus is on closing the gap between traditional enterprise software and today’s AI tools by building practical, intelligent solutions.
-
-Outside of work, I stay active in the fast-moving AI space. From LLMs to intelligent agents and open-source tools, I enjoy exploring how new developments in AI can improve developer experience, automation, and complex decision-making.
-
-My expertise spans Java and modern frameworks, object-oriented programming, design patterns, microservices architectures, RESTful APIs, cloud-native technologies (SAP BTP, AWS, Azure, GCP), and DevOps practices including CI/CD pipelines and monitoring/logging systems.
-
+At SAP, I work on flagship agentic AI projects focused on Utilities and Market Communication (MaCo), bridging traditional enterprise software with modern AI capabilities. I'm actively involved in the open-source community, contributing to projects that advance developer experience and AI tooling.
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
+## Featured Projects
+
+### Project HandoverKey
+**Zero-knowledge encrypted digital legacy management**
+- **Backend**: NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis
+- **Frontend**: React, TypeScript, Tailwind CSS, Zustand
+- **Security**: AES-256-GCM, PBKDF2, JWT authentication
+- **Features**: End-to-end encryption, dead man's switch, multi-party handover
+
+### KirjaSwappi
+**A book exchange ecosystem**
+- **Backend**: Spring Boot, Maven, PostgreSQL, JPA/Hibernate
+- **Frontend**: React, TypeScript, Tailwind CSS, Vite
+- **Mobile**: Flutter, Dart, Provider state management
+- **Features**: Book management, user matching, real-time notificatio
+
+<hr style="border-color: rgba(0, 0, 0, 0.1);">
+
+## Technical Expertise
+
+### Languages & Frameworks
+- **Backend**: Java (Spring Boot), Python (FastAPI), TypeScript (NestJS)
+- **Databases**: SAP S/4 Hana, MySQL, PostgreSQL, MongoDB
+- **Message Queues**: Apache Kafka, RabbitMQ
+
+### Architecture & DevOps
+- **Microservices**: Event-driven architecture, GraphQL federation, REST APIs
+- **Cloud**: SAP BTP, Azure, GCP, AWS
+- **Containerization**: Docker, Kubernetes, Docker-Compose
+- **Monitoring & Logging**: Prometheus, Grafana, Jaeger tracing, OpenSearch
+- **CI/CD Pipeline**: GitHub Actions, Azure DevOps, Jenkins
+
+### AI & Machine Learning
+- **LLM Integration**: OpenAI SDK, local models (Ollama/LM Studio)
+- **AI Workflows**: LangGraph, Retrival Augmented Generation (RAG)
+- **Vector Databases**: Embedding storage and retrieval
+- **Monitoring**: LangFuse for AI observability
+
+<hr style="border-color: rgba(0, 0, 0, 0.1);">
 
 ## Connect
 
@@ -36,9 +74,7 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
   </a>
 </p>
 
-
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
-
 
 ## Technologies
 
@@ -47,16 +83,25 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+</p>
+
+<p align="center">
   <img src="https://icongr.am/devicon/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" width="40" height="40" alt="Kafka"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus"/>
 </p>
 
-
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
-
 
 ## GitHub Activity
 
@@ -81,9 +126,7 @@ My expertise spans Java and modern frameworks, object-oriented programming, desi
   </a>
 </p>
 
-
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahiuddinalkamal&style=for-the-badge&color=424242" alt="Profile Views" />
