@@ -31,7 +31,7 @@ At SAP, I work on flagship agentic AI projects focused on Utilities and Market C
 - **Backend**: Spring Boot, Maven, PostgreSQL, JPA/Hibernate
 - **Frontend**: React, TypeScript, Tailwind CSS, Vite
 - **Mobile**: Flutter, Dart, Provider state management
-- **Features**: Book management, user matching, real-time notificatio
+- **Features**: Book management, user matching, real-time notification and messsaging
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
