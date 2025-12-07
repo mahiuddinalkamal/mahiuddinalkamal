@@ -1,6 +1,6 @@
 # Mahiuddin Al Kamal
 
-**Developer Specialist @ SAP SE | Agentic-AI | Distributed Systems **
+**Developer Specialist @ SAP SE | Agentic-AI | Distributed Systems**
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
