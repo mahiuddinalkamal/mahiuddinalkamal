@@ -1,17 +1,12 @@
 # Mahiuddin Al Kamal
 
-**Developer Specialist @ SAP SE | Agentic-AI | Backend | DevOps**
+**Developer Specialist @ SAP SE | Agentic-AI | Distributed Systems **
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
 ## About Me
 
 With over 6 years of experience, I specialize in building production-ready AI platforms, enterprise microservices, and cloud-native distributed applications. I'm passionate about creating intelligent systems that solve real-world problems through clean architecture and modern technologies.
-
-**Current Focus:**
-- **Enterprise Microservices**: Designing event-driven architectures with Kafka, GraphQL, and containerized deployments
-- **Digital Security**: Developing zero-knowledge encryption systems for digital legacy management
-- **Marketplace Integrations**: Creating robust APIs for e-commerce platform integrations
 
 At SAP, I work on flagship agentic AI projects focused on Utilities and Market Communication (MaCo), bridging traditional enterprise software with modern AI capabilities. I'm actively involved in the open-source community, contributing to projects that advance developer experience and AI tooling.
 
@@ -31,7 +26,7 @@ At SAP, I work on flagship agentic AI projects focused on Utilities and Market C
 - **Backend**: Spring Boot, Maven, PostgreSQL, JPA/Hibernate
 - **Frontend**: React, TypeScript, Tailwind CSS, Vite
 - **Mobile**: Flutter, Dart, Provider state management
-- **Features**: Book management, user matching, real-time notification and messsaging
+- **Features**: Book management, user matching, real-time notification and messaging
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
@@ -51,7 +46,7 @@ At SAP, I work on flagship agentic AI projects focused on Utilities and Market C
 
 ### AI & Machine Learning
 - **LLM Integration**: OpenAI SDK, local models (Ollama/LM Studio)
-- **AI Workflows**: LangGraph, Retrival Augmented Generation (RAG)
+- **AI Workflows**: LangGraph, Retrieval Augmented Generation (RAG)
 - **Vector Databases**: Embedding storage and retrieval
 - **Monitoring**: LangFuse for AI observability
 
