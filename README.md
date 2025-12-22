@@ -8,13 +8,13 @@
 
 With over 6 years of experience, I specialize in building production-ready AI platforms, enterprise microservices, and cloud-native distributed applications. I'm passionate about creating intelligent systems that solve real-world problems through clean architecture and modern technologies.
 
-At SAP, I work on flagship agentic AI projects focused on Utilities and Market Communication (MaCo), bridging traditional enterprise software with modern AI capabilities. I'm actively involved in the open-source community, contributing to projects that advance developer experience and AI tooling.
+At SAP, I work on a flagship agentic AI initiative focused on building an automated system for intelligent spare-parts identification and processing, bridging traditional enterprise software with modern AI capabilities. I'm actively involved in the open-source community, contributing to projects that advance developer experience and AI tooling.
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
 ## Featured Projects
 
-### Project HandoverKey
+### HandoverKey
 **Zero-knowledge encrypted digital legacy management**
 - **Backend**: NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis
 - **Frontend**: React, TypeScript, Tailwind CSS, Zustand
@@ -33,22 +33,22 @@ At SAP, I work on flagship agentic AI projects focused on Utilities and Market C
 ## Technical Expertise
 
 ### Languages & Frameworks
-- **Backend**: Java (Spring Boot), Python (FastAPI), TypeScript (NestJS)
-- **Databases**: SAP S/4 Hana, MySQL, PostgreSQL, MongoDB
+- **Backend**: Java (Spring Boot), TypeScript (NestJS)
+- **Databases**: SAP HANA, MySQL, PostgreSQL, MongoDB
 - **Message Queues**: Apache Kafka, RabbitMQ
 
 ### Architecture & DevOps
 - **Microservices**: Event-driven architecture, GraphQL federation, REST APIs
 - **Cloud**: SAP BTP, Azure, GCP, AWS
-- **Containerization**: Docker, Kubernetes, Docker-Compose
-- **Monitoring & Logging**: Prometheus, Grafana, Jaeger tracing, OpenSearch
+- **Containerization**: Docker, Kubernetes, Cloud Foundry
+- **Monitoring & Logging**: Prometheus, Grafana, OpenSearch
 - **CI/CD Pipeline**: GitHub Actions, Azure DevOps, Jenkins
 
 ### AI & Machine Learning
-- **LLM Integration**: OpenAI SDK, local models (Ollama/LM Studio)
+- **LLM Integration**: OpenAI SDK, SAP GEN-AI SDK, local models (Ollama/LM Studio)
 - **AI Workflows**: LangGraph, Retrieval Augmented Generation (RAG)
-- **Vector Databases**: Embedding storage and retrieval
-- **Monitoring**: LangFuse for AI observability
+- **Vector Databases**: PG Vector, HANA Vector Engine
+- **Monitoring**: LangFuse
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
