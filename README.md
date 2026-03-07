@@ -1,6 +1,6 @@
 # Mahiuddin Al Kamal
 
-**Developer Specialist @ SAP SE | Agentic-AI | Distributed Systems**
+**Senior Developer @ SAP iSpares | Agentic-AI**
 
 <hr style="border-color: rgba(0, 0, 0, 0.1);">
 
