@@ -25,16 +25,13 @@ Most of what I do these days sits somewhere between classic enterprise systems a
 - Event-driven backends at supply chain scale
 - Observability that tells you what really happened
 
-### Selected projects
+### Actively Managing
 
-**[HandoverKey](https://github.com/mahiuddinalkamal/HandoverKey)**
+**[HandoverKey](https://handoverkey.com)**
 A stupidly secure digital legacy app. Zero-knowledge, dead-man's switch, multi-party key release. Built with NestJS, Prisma, PostgreSQL, AES-256-GCM.
 
-**[KirjaSwappi](https://github.com/mahiuddinalkamal/KirjaSwappi)**
+**[KirjaSwappi](https://kirjaswappi.fi)**
 A peer-to-peer book exchange I use as a playground for distributed systems ideas. Polyglot microservices (Java, Go), gRPC and REST, real-time notifications over WebSockets.
-
-**[PrismaCV](https://github.com/mahiuddinalkamal/PrismaCV)**
-An LLM-based resume optimizer. Parses PDFs and DOCX, rewrites for ATS alignment, uses embeddings to check relevance.
 
 ### Things I use
 
