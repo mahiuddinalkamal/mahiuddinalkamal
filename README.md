@@ -1,4 +1,4 @@
-## Mahiuddin Al Kamal
+# Mahiuddin Al Kamal
 
 Software engineer at SAP. Based in Würzburg, Germany.
 
@@ -35,7 +35,14 @@ A peer-to-peer book exchange I use as a playground for distributed systems ideas
 
 ### Things I use
 
-Java, TypeScript, Python, Go. Spring Boot, NestJS, FastAPI. PostgreSQL, SAP HANA, Kafka, Redis. Kubernetes on SAP BTP, AWS, Azure, GCP. OpenAI, LangGraph, RAG, LangFuse. Prometheus, Grafana, Jaeger, OpenSearch.
+```
+Languages      Java, TypeScript, Python, Go
+Frameworks     Spring Boot, NestJS, FastAPI
+Data           PostgreSQL, SAP HANA, Kafka, Redis
+Cloud          SAP BTP, AWS, Azure, GCP, Kubernetes
+AI             OpenAI, LangGraph, RAG, LangFuse
+Observability  Prometheus, Grafana, Jaeger, OpenSearch
+```
 
 ### Find me
 
