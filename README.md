@@ -1,130 +1,45 @@
-# Mahiuddin Al Kamal
+## Mahiuddin Al Kamal
 
-**Senior Developer @ SAP iSpares | Driving Agentic-AI @ SAP**
+Software engineer at SAP. Based in Würzburg, Germany.
 
-<hr style="border-color: rgba(0, 0, 0, 0.1);">
+I've been at SAP since 2022. Right now I'm leading engineering for **iSpares**, a multi-agent system that automates spare-parts identification. Before that I worked on SAP UCSSA (agentic AI for Utilities), Catena-X cDCM (event-driven stuff for automotive supply chains), and SAP's next-gen Patient Accounting (billing engine and an HL7 FHIR terminology service).
 
-## About Me
+Most of what I do these days sits somewhere between classic enterprise systems and LLM agents. It's a messy, interesting place to be.
 
-With over 6 years of experience, I specialize in building production-ready AI platforms, enterprise microservices, and cloud-native distributed applications. I'm passionate about creating intelligent systems that solve real-world problems through clean architecture and modern technologies.
+### Work
 
-At SAP, I work on a flagship agentic AI initiative focused on building an automated system for intelligent spare-parts identification and processing, bridging traditional enterprise software with modern AI capabilities. I'm actively involved in the open-source community, contributing to projects that advance developer experience and AI tooling.
+```
+2026 —         Senior Developer        SAP, iSpares (Agentic-AI)
+2025 — 2025    Developer Specialist    SAP, UCSSA (Agentic-AI, Utilities)
+2024 — 2025    Developer Specialist    SAP, cDCM (Catena-X)
+2023 — 2023    Developer Associate     SAP, cDCM (Catena-X)
+2022 — 2023    Developer Associate     SAP, Patient Accounting, Health
+2021 — 2022    Software Engineer       Telekom MMS, Confidential Computing
+2018 — 2019    Software Engineer       Millennium Information Solution
+```
 
-<hr style="border-color: rgba(0, 0, 0, 0.1);">
+### What I'm into right now
 
-## Featured Projects
+- Multi-agent systems that actually survive production
+- Making LLM-backed services fast and predictable
+- Event-driven backends at supply chain scale
+- Observability that tells you what really happened
 
-### HandoverKey
-**Zero-knowledge encrypted digital legacy management**
-- **Backend**: NestJS, TypeScript, Prisma ORM, PostgreSQL, Redis
-- **Frontend**: React, TypeScript, Tailwind CSS, Zustand
-- **Security**: AES-256-GCM, PBKDF2, JWT authentication
-- **Features**: End-to-end encryption, dead man's switch, multi-party handover
+### Selected projects
 
-### KirjaSwappi
-**A book exchange ecosystem**
-- **Backend**: Spring Boot, Maven, PostgreSQL, JPA/Hibernate
-- **Frontend**: React, TypeScript, Tailwind CSS, Vite
-- **Mobile**: Flutter, Dart, Provider state management
-- **Features**: Book management, user matching, real-time notification and messaging
+**[HandoverKey](https://github.com/mahiuddinalkamal/HandoverKey)**
+A stupidly secure digital legacy app. Zero-knowledge, dead-man's switch, multi-party key release. Built with NestJS, Prisma, PostgreSQL, AES-256-GCM.
 
-<hr style="border-color: rgba(0, 0, 0, 0.1);">
+**[KirjaSwappi](https://github.com/mahiuddinalkamal/KirjaSwappi)**
+A peer-to-peer book exchange I use as a playground for distributed systems ideas. Polyglot microservices (Java, Go), gRPC and REST, real-time notifications over WebSockets.
 
-## Technical Expertise
+**[PrismaCV](https://github.com/mahiuddinalkamal/PrismaCV)**
+An LLM-based resume optimizer. Parses PDFs and DOCX, rewrites for ATS alignment, uses embeddings to check relevance.
 
-### Languages & Frameworks
-- **Backend**: Java (Spring Boot), TypeScript (NestJS)
-- **Databases**: SAP HANA, MySQL, PostgreSQL, MongoDB
-- **Message Queues**: Apache Kafka, RabbitMQ
+### Things I use
 
-### Architecture & DevOps
-- **Microservices**: Event-driven architecture, GraphQL federation, REST APIs
-- **Cloud**: SAP BTP, Azure, GCP, AWS
-- **Containerization**: Docker, Kubernetes, Cloud Foundry
-- **Monitoring & Logging**: Prometheus, Grafana, OpenSearch
-- **CI/CD Pipeline**: GitHub Actions, Azure DevOps, Jenkins
+Java, TypeScript, Python, Go. Spring Boot, NestJS, FastAPI. PostgreSQL, SAP HANA, Kafka, Redis. Kubernetes on SAP BTP, AWS, Azure, GCP. OpenAI, LangGraph, RAG, LangFuse. Prometheus, Grafana, Jaeger, OpenSearch.
 
-### AI & Machine Learning
-- **LLM Integration**: OpenAI SDK, SAP GEN-AI SDK, local models (Ollama/LM Studio)
-- **AI Workflows**: LangGraph, Retrieval Augmented Generation (RAG)
-- **Vector Databases**: PG Vector, HANA Vector Engine
-- **Monitoring**: LangFuse
+### Elsewhere
 
-<hr style="border-color: rgba(0, 0, 0, 0.1);">
-
-## Connect
-
-<p align="center">
-  <a href="https://mahiuddinalkamal.com/" target="_blank">
-    <img src="icons/portfolio.svg" width="30" height="30" alt="Portfolio"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mahiuddinalkamal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/mahiuddinalkamal" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" width="30" height="30" alt="HackerRank"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mahiuddinalkamal@gmail.com">
-    <img src="icons/gmail.svg" width="30" height="30" alt="Gmail"/>
-  </a>
-</p>
-
-<hr style="border-color: rgba(0, 0, 0, 0.1);">
-
-## Technologies
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-</p>
-
-<p align="center">
-  <img src="https://icongr.am/devicon/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" width="40" height="40" alt="Kafka"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus"/>
-</p>
-
-<hr style="border-color: rgba(0, 0, 0, 0.1);">
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiuddinalkamal&theme=vue&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiuddinalkamal&theme=vue&hide_border=true&background=00000000&stroke=424242&ring=424242&fire=424242&currStreakLabel=424242" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiuddinalkamal&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=212121&text_color=424242" alt="Top Languages" width="50%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mahiuddinalkamal/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahiuddinalkamal&bg_color=00000000&color=A0A0A0&line=A0A0A0&point=A0A0A0&hide_border=true" alt="Activity Graph" width="95%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://ossinsight.io/analyze/mahiuddinalkamal" target="_blank" style="font-size: 1.5em; color: #0056B3; font-weight: bold; text-decoration: none;">
-    Explore more detailed insights on OssInsight.
-  </a>
-</p>
-
-<hr style="border-color: rgba(0, 0, 0, 0.1);">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahiuddinalkamal&style=for-the-badge&color=424242" alt="Profile Views" />
-</p>
-
-<p align="center">Thanks for visiting! 👋</p>
+[mahiuddinalkamal.com](https://mahiuddinalkamal.com) · [linkedin](https://www.linkedin.com/in/mahiuddinalkamal/) · [mahiuddinalkamal@gmail.com](mailto:mahiuddinalkamal@gmail.com)
